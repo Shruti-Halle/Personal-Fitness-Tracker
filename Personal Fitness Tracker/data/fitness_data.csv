@@ -1,0 +1,11 @@
+email,date,age,gender,weight,height,activity_level,sleep_hours,stress_level,heart_rate,calories_burned,exercise_minutes
+shrutihalle2@gmail.com,2025-03-04,20.0,Female,60.0,60.0,Very Active,7.5,6.0,67.0,120.0,15.0
+user1@example.com,2025-03-04,25.0,Male,75.0,175.0,Active,6.0,7.0,72.0,200.0,30.0  
+user2@example.com,2025-03-04,30.0,Female,65.0,165.0,Moderate,8.0,5.0,70.0,150.0,20.0  
+user3@example.com,2025-03-04,22.0,Male,80.0,180.0,Sedentary,5.5,8.0,85.0,100.0,10.0  
+user4@example.com,2025-03-04,28.0,Female,55.0,160.0,Very Active,7.0,6.0,68.0,180.0,25.0  
+user5@example.com,2025-03-04,35.0,Male,90.0,185.0,Active,6.5,7.0,75.0,220.0,40.0  
+user6@example.com,2025-03-04,27.0,Female,58.0,162.0,Moderate,7.0,5.5,69.0,160.0,22.0  
+user7@example.com,2025-03-04,23.0,Male,70.0,170.0,Sedentary,6.0,7.5,80.0,130.0,18.0  
+user8@example.com,2025-03-04,29.0,Female,62.0,168.0,Very Active,7.5,6.0,66.0,210.0,35.0  
+user9@example.com,2025-03-04,26.0,Male,78.0,177.0,Active,6.0,7.0,74.0,190.0,28.0  
